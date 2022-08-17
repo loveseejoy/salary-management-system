@@ -36,62 +36,62 @@
 
 **登录**
 
-![](src/main/resources/static/system/img.png)
+![](salary-management-system/src/main/resources/static/system/img.png)
 
 **系统首页**
 
-![](src/main/resources/static/system/img_1.png)
+![](salary-management-system/src/main/resources/static/system/img_1.png)
 
 **部门管理**
 
-![](src/main/resources/static/system/img_2.png)
+![](salary-management-system/src/main/resources/static/system/img_2.png)
 
 **员工管理**
 
-![](src/main/resources/static/system/img_3.png)
+![](salary-management-system/src/main/resources/static/system/img_3.png)
 
 **角色管理**
 
-![](src/main/resources/static/system/img_4.png)
+![](salary-management-system/src/main/resources/static/system/img_4.png)
 
 **岗位管理**
 
-![](src/main/resources/static/system/img_5.png)
+![](salary-management-system/src/main/resources/static/system/img_5.png)
 
 **通知公告**
 
-![](src/main/resources/static/system/img_6.png)
+![](salary-management-system/src/main/resources/static/system/img_6.png)
 
-![](src/main/resources/static/system/img_7.png)
+![](salary-management-system/src/main/resources/static/system/img_7.png)
 
 **薪资配置**
 
-![](src/main/resources/static/system/img_8.png)
+![](salary-management-system/src/main/resources/static/system/img_8.png)
 
 **岗位薪资配置**
 
-![](src/main/resources/static/system/img_9.png)
+![](salary-management-system/src/main/resources/static/system/img_9.png)
 
 **薪资核算**
 财务人员可每月进行一次薪资核算，薪资核算会将所有员工的薪资进行核算，系统会通过员工对应的岗位，当月考勤情况、请假情况一级个税及五险一金的扣除情况进行核算，得到工资发方的明细。
 
-![](src/main/resources/static/system/img_10.png)
+![](salary-management-system/src/main/resources/static/system/img_10.png)
 
-![](src/main/resources/static/system/img_12.png)
+![](salary-management-system/src/main/resources/static/system/img_12.png)
 
 **考勤管理**
 
-![](src/main/resources/static/system/img_13.png)
+![](salary-management-system/src/main/resources/static/system/img_13.png)
 
 **请假管理及审批**
 
-![](src/main/resources/static/system/img_14.png)
+![](salary-management-system/src/main/resources/static/system/img_14.png)
 
-![](src/main/resources/static/system/img_16.png)
+![](salary-management-system/src/main/resources/static/system/img_16.png)
 
 **个人工资条**
 
-![](src/main/resources/static/system/img_15.png)
+![](salary-management-system/src/main/resources/static/system/img_15.png)
 
 ## 三、访问地址及用户密码
 
